@@ -1,2 +1,5 @@
-# An-lisis-Avanzado
-Materia cursada en la Universidad de Buenos Aires para la Licenciatura en Ciencias de Datos
+# Análisis Avanzado 🐒
+
+## beware
+Se usó inteligencia artificial para ayudar con los ejercicios: https://pulsr.co.uk/
+
