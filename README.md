@@ -1,4 +1,5 @@
 # Análisis Avanzado 🐒
 
-![Home Page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/Home.png)
+![Home Page Image](https://github.com/GuidoPauletti/Analisis-Avanzado/blob/main/3D_Cantor_set.jpg)
+
 
