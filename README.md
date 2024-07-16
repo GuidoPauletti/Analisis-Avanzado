@@ -1,5 +1,4 @@
 # Análisis Avanzado 🐒
 
-## beware
-Se usó inteligencia artificial para ayudar con los ejercicios: https://pulsr.co.uk/
+![Home Page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/Home.png)
 
